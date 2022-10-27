@@ -1,0 +1,18 @@
+.menu {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+	text-align: right;
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 13px;
+	line-height: 16px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	background-color: red;
+}
+.menu__item {
+	padding-left: 60px;
+}

@@ -1,0 +1,10 @@
+@import 'blocks/header/header.css';
+@import 'blocks/header/logo/logo.css';
+@import 'blocks/header/menu/menu.css';
+@import 'blocks/container/container.css';
+@import 'blocks/header-container/header-container.css';
+
+body {
+	margin: 0;
+	padding: 0;
+}
